@@ -30,6 +30,9 @@ const MyServices = () => {
       ])
 
       console.log(setService)
+      const downloadFile = () => {
+        window.location.href = "https://docs.google.com/document/d/1pdgBVxPf6QQxf47cyiOu8cIQfBo0iRY2TWSFXKqoHNU/edit?usp=sharing"
+      }
 
   return (
     <div className='MyServicesBody'>
@@ -38,7 +41,7 @@ const MyServices = () => {
                 <div className='MyServicesBodyCard' key={props.id}>
             <h3>{props.serviceHeader}</h3>
             <p>{props.serviceDic}</p>
-            <span>HIR ME</span>
+            <span role={button} onClick={downloadFile}>HIRE ME</span>
         </div>
             ))
         }

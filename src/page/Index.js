@@ -39,6 +39,9 @@ const Index = () => {
   ])
 
   console.log(setExp)
+  const downloadFile = () => {
+    window.location.href = "https://docs.google.com/document/d/1pdgBVxPf6QQxf47cyiOu8cIQfBo0iRY2TWSFXKqoHNU/edit?usp=sharing"
+  }
 
   return (
     <div className='ContainerMain'>
@@ -62,7 +65,7 @@ const Index = () => {
                   <div className='MyProfileBoxText'>
                     <h1>Hi, I'm Ebuka</h1>
                       <span>&lt;<i>code</i>&gt; &nbsp; <p> I'm a full Stack Developer. </p> &nbsp; &lt; <i>/code</i>&gt;</span>
-                      <div row="button" className='BtnHir'>HIR ME</div>
+                      <div row="button" className='BtnHir' onClick={downloadFile}>HIRE ME</div>
                   </div>
                   <div className='MyProfilePix'></div>
                </div>

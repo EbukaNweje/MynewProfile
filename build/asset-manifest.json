@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7a72200a.css",
-    "main.js": "/static/js/main.8de15750.js",
+    "main.js": "/static/js/main.d16a5cbe.js",
     "static/js/787.5639fac3.chunk.js": "/static/js/787.5639fac3.chunk.js",
     "static/media/Dictionary.png": "/static/media/Dictionary.e8226fa473d4afbc10f7.png",
     "static/media/Get Verified on Instagram.png": "/static/media/Get Verified on Instagram.b6cade9f6636a75b3ece.png",
@@ -14,11 +14,11 @@
     "static/media/INVOICE.png": "/static/media/INVOICE.ff94f1ccce001bb2a281.png",
     "index.html": "/index.html",
     "main.7a72200a.css.map": "/static/css/main.7a72200a.css.map",
-    "main.8de15750.js.map": "/static/js/main.8de15750.js.map",
+    "main.d16a5cbe.js.map": "/static/js/main.d16a5cbe.js.map",
     "787.5639fac3.chunk.js.map": "/static/js/787.5639fac3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7a72200a.css",
-    "static/js/main.8de15750.js"
+    "static/js/main.d16a5cbe.js"
   ]
 }
