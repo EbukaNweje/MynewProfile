@@ -1,0 +1,113 @@
+@media (max-width: 900px){
+    .RightContainer {
+        display: none;
+    }
+
+    .LeftContainer {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .LeftContainerTop{
+        display: flex;
+        width: 100%;
+    }
+
+    .MobileTop {
+        display: flex;
+        position: relative;
+        left: 0;
+        right: 0;
+        width: 100%;
+    }
+
+    .MyMobileMenuBarbody {
+        display: flex;
+        width: 98%;
+        z-index: 1000;
+        top: 14px;
+        position: absolute;
+        height: 95vh;
+        background: linear-gradient(159deg, rgba(37, 37, 50, 0.185) 0%, rgba(35, 35, 45, 0.301) 100%);
+    }
+
+    .MyMobileMenuBar {
+        position: relative;
+        display: flex;
+        width: 50%;
+        height: 100%;
+        background: #20202a;
+        /* padding-top: 30px; */
+    }
+
+    .MyBobileMenu {
+        display: flex;
+    }
+
+    .Close {
+        z-index: 10000000;
+    }
+
+    .MyProfilePix {
+        display: none;
+    }
+
+    .MyProfileBoxText {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .MyProfileBoxText h1, .BtnHir {
+        margin: 0px;
+    }
+
+    .MyProfileBoxText span {
+        margin: 0px;
+        font-size: 15px;
+    }
+
+    .NumberWorkDone {
+        flex-wrap: wrap;
+    }
+
+    .Numberworkdonediv {
+        width: 50%;
+    }
+
+    .MyServices {
+        margin-top: 20px;
+    }
+
+    .MyServicesBodyCard {
+        min-width: 90%;
+    }
+
+    .Desktop {
+        display: none;
+    }
+
+    .mobile {
+        display: flex;
+    }
+
+    .ContactinformationBody {
+        flex-direction: column;
+    }
+
+    .ContactinformationBodyCard {
+        width: 90%;
+    }
+
+    .MobileTextCu {
+        font-size: 8px;
+    }
+
+    .AboutMeInfo_Progress {
+        display: none;
+    }
+
+}

@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7a72200a.css",
+    "main.js": "/static/js/main.8de15750.js",
+    "static/js/787.5639fac3.chunk.js": "/static/js/787.5639fac3.chunk.js",
+    "static/media/Dictionary.png": "/static/media/Dictionary.e8226fa473d4afbc10f7.png",
+    "static/media/Get Verified on Instagram.png": "/static/media/Get Verified on Instagram.b6cade9f6636a75b3ece.png",
+    "static/media/hotel.png": "/static/media/hotel.3f2a5de3b2ffb810b29a.png",
+    "static/media/Saphillpalace.png": "/static/media/Saphillpalace.3ee8c4c5a8b1c4d6be79.png",
+    "static/media/jumia.png": "/static/media/jumia.777b385fbbe91cdc422a.png",
+    "static/media/calculator.png": "/static/media/calculator.c8ab4c5499a967dcdba8.png",
+    "static/media/Space Travelers' Hub.png": "/static/media/Space Travelers' Hub.b8120cec2e2071c3a1d7.png",
+    "static/media/52475096.png": "/static/media/52475096.de418cec30489e5c403a.png",
+    "static/media/INVOICE.png": "/static/media/INVOICE.ff94f1ccce001bb2a281.png",
+    "index.html": "/index.html",
+    "main.7a72200a.css.map": "/static/css/main.7a72200a.css.map",
+    "main.8de15750.js.map": "/static/js/main.8de15750.js.map",
+    "787.5639fac3.chunk.js.map": "/static/js/787.5639fac3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a72200a.css",
+    "static/js/main.8de15750.js"
+  ]
+}
