@@ -41,7 +41,7 @@ const MyServices = () => {
                 <div className='MyServicesBodyCard' key={props.id}>
             <h3>{props.serviceHeader}</h3>
             <p>{props.serviceDic}</p>
-            <span role={button} onClick={downloadFile}>HIRE ME</span>
+            <span onClick={downloadFile}>HIRE ME</span>
         </div>
             ))
         }
